@@ -1,7 +1,4 @@
 # Hugging Face cache
-huggingface/
-.huggingface/
-**/huggingface/**
 **/hf_cache/**
 **/models--*/
 
